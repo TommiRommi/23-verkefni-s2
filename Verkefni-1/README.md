@@ -74,6 +74,8 @@ Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skil
 - Ákveðin kvikmynd, kvikmyndastefna, leikarar, leikstjórar og / eða annað sem ykkur dettur í hug. 
 
 Tilgreindu hvaða efni þú ætlar að vinna með í áfanganum í README skránni sem þú skilar í github.io 
+
+Mundu að bæta **dannigalvez** við sem collaborator á private geymsluna.
    
    #### Engin á að fjalla um sama efni. 
 
