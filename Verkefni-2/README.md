@@ -26,6 +26,6 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 
 #### Skil
 
-Öllum gögnum er skilað í verkefnageymsluna þína í Github. Tengill á verkefnið er skilað í Innu.
+Öllum gögnum er skilað í verkefnageymsluna þína á Github í möppuna **verkefni2**. Tengill á verkefnið er skilað í Innu.
 
 #### Einkunn verður birt í Innu
