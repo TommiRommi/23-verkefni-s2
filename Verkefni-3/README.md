@@ -5,7 +5,7 @@
 - Nemendur hafa skilning á skipulagi vefsíðna með CSS grid stílum.
 - Nemendur læri að nota mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics).
 
-### 3.1 dálkaskipulag 
+### 3.1 Dálkaskipulag 
 
 Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka uppsetningu, 3 dálka uppsetningu og 4 dálka uppsetningu.  Notaðu display: grid. [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
 
