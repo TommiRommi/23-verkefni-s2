@@ -14,10 +14,12 @@ Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og
 1. Búðu til HTML vefsíðu og settu viðeigandi HTML tög utan um textann sem þú ert búin að finna til úr 1. verkefni. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann. Notaðu texta sem þú ert búin/n að finna. Notaðu viðeigandi tög til að gera textann læsilegan.
 
 ```
-<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br> og <hr> 
+<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> og <span> 
 ```
 2. Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið **80em** (1280px) og hún á að vera miðjusett í skjáum sem eru stærri en 80em. Þú notar eigin texta og getur valið aðra liti en eru sýndir hér: [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-2/)
-
+```
+color:, text-decoration:, font-family:, font-style:, font-weight:, border, margin/padding,   
+```
 ### Námsefni
 
 * [HTML -CSS](Namsefni-2/README.md)
