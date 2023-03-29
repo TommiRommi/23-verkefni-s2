@@ -19,6 +19,8 @@ Við notum **_@media screen_** skipunina til að birta mismunandi skipulag eftir
 * Viðmið: 600px – 767px, 2 og 4 dálkar með 50% breidd (1fr 1fr)
 * Viðmið: 768px – 959px, 2 dálkar 50% breidd (1fr 1fr), 3 dálkar 33.33% breidd (1fr 1fr 1fr) og 4 dálkar 25% breidd (1fr 1fr 1fr 1fr)
 
+### [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
+
 ## 4.2 Sveigjanlegur vefur
 
 Nú er komið að gera vefinn þinn sveigjanlegan. HTML tög eiga að hafa skiljanlega merkingu í uppsetningunni,  helstu tögin eru ` <header> <nav> <main> <section> <article> <aside> og <footer>`, [sjá öll tögin hér](https://www.w3schools.com/html/html5_semantic_elements.asp).  
