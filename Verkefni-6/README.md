@@ -50,7 +50,7 @@ Sækið leturgerðir á [Google font]() vefsíðuna sem hæfa efninu sem þú he
 * **4% Leturgerð (_font-family_)** valin af fonts.google.com.
     * Mismunandi stílar (font-styles) eru á fyrirsögn, millifyrirsögnum og meginmálsletri, tenglum og listum
     * Góð skerpa í litasamsetningu leturs og bakgrunns
-* **2% Kvikmynd er á vefsíðunni &lt;Video>**
+* **2% Kvikmynd er á vefsíðunni &lt;iframe>**
 * **2% Kort er á vefsíðunni &lt;iframe>**
 * **2% Hljóðskrá er á vefsíðunni &lt;audio>**
 * **2% Efnisyfirlit**
