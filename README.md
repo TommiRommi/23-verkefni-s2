@@ -5,8 +5,8 @@
 1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/)
 1. verkefni. [Sveigjanleg hönnun](Verkefni-4/)
 1. verkefni. [Myndvinnsla](Verkefni-5/)
-<!--
 1. verkefni. [Leturfræði, efnisyfirlit og innsetning miðla (API)](Verkefni-6/README.md)
+<!--
 1. verkefni. [Töflur og form - lykilmatsþáttur](Verkefni-7/README.md)
 -->
 ### Verkefnaskil 
