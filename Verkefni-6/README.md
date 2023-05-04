@@ -29,7 +29,7 @@ Búðu til lista með eftirtöldum upplýsingum
 * Passar leturgerðin sem þú velur, málefninu?  
 * Hentar litaþemað sem þú hefur valið, málefninu?
 
-Sækið leturgerðir á [Google font]() vefsíðuna sem hæfa efninu sem þú hefur valið.  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  
+Sækið leturgerðir á [Google font](https://fonts.google.com/) vefsíðuna sem hæfa efninu sem þú hefur valið.  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  
 
 ---
 
